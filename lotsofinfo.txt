@@ -1,0 +1,69 @@
+################################################################################
+# REALLY USEFUL LINKS, THANKS TO ALL THE AUTHORS
+################################################################################
+
+    KERNEL/PATCHES/DOCUMENTATION
+    Glitch
+        https://github.com/Tk-Glitch/Glitch
+    Zendroid
+        http://git.zen-kernel.org/zendroid/refs/?h=slqb&id=1db1c4837dfb5dcbf9b87dc17107912ad41e7245
+    Zachs' kenrel
+        https://github.com/zachariasmaladroit/android_kernel_samsung_aries/tree/a44c24be4bd3395a21d3a1c9a27cbb4071883f55
+    Talon patches
+        http://berryfx.com/RobBeane/Kernel/Patches/Talon/
+    Exitz kernel
+        https://github.com/existz/linux_gt-i9000-gb
+        http://existz.darkirc.info/git/
+    
+    CONSERVATIVE SCHED
+        http://pastebin.com/qE4NLuLk
+        http://www.spinics.net/lists/cpufreq/maillist.html
+    
+    MEMCOPY / MEMMOVE
+        https://github.com/Chad0989/android_kernel_common/commit/05a81121bf0c4f784d414d3d3964a2996afeebb3
+
+    OC
+        https://github.com/existz/galaxys-i9000-OC-kernel-source-patches/blob/master/oc120v400-source.patch (Existz OC patch)
+        http://forum.xda-developers.com/showthread.php?t=876244
+
+    BLN
+        https://github.com/neldar/backlightnotification
+        https://github.com/project-voodoo/backlightnotification/tree/master/kernel_patches/
+
+    VR sched
+        https://github.com/existz/linux_gt-i9000-gb/commit/9b92f4073449f8d67bd0c730a35bb61766fd9827
+
+    LOWMEMORYKILLER SETTINGS
+        http://forum.xda-developers.com/showthread.php?t=622666
+    
+    TOUCHSCREEN SENSITIVITY:
+        http://forum.xda-developers.com/archive/index.php/t-844216.html
+
+    TWEAKS
+        http://intl.feedfury.com/content/47077504-tweak-skript-f-r-android-spica.html (various tweaks, explanations)
+        http://forum.xda-developers.com/showthread.php?t=798560 (various tweaks, Milestone)
+        http://www.handlewithlinux.com/All-you-need-to-know-about-proc-sys-manipulate-a-running-kernel
+        http://forum.xda-developers.com/showthread.php?t=1210341 (build.prop, LG Optimus)
+        http://nenolod.net/how-to-improve-user-performance-on-android-phones/
+        http://forum.xda-developers.com/showthread.php?t=1205259 (Galaxy Ace, various tweaks)
+        http://suckup.de/2011/06/12/optimierungen-von-android-unter-linux-nutzen/ (various tweaks, german site)
+        
+    RECOVERY2E
+        http://forum.xda-developers.com/showthread.php?t=813475&highlight=2e+recovery
+
+    CMW DOWNLOADS
+        http://koush.kanged.net/cm/recoveries/
+
+    INTERESTING THREAD ABOUT KERNEL, BUGS, DEBUG,..
+        http://forum.xda-developers.com/showthread.php?t=829372
+
+    GIT
+        http://linux.yyz.us/git-howto.html
+        https://help.codesion.com/View.jsp?title=Importing-Content-into-your-New-Git-Repository
+        
+    OTHER
+        http://processors.wiki.ti.com/index.php/Cortex_A8#Neon_and_VFP_both_support_floating_point.2C_which_should_I_use.3F (ARM tips)
+        http://forum.xda-developers.com/showthread.php?t=1152740 (SU and init.d)
+        http://forum.xda-developers.com/showthread.php?t=682828 (Superuser)
+        http://forum.xda-developers.com/showthread.php?t=786988 (ADB root props)
+

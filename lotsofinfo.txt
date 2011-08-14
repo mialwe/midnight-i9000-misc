@@ -39,6 +39,15 @@
     TOUCHSCREEN SENSITIVITY:
         http://forum.xda-developers.com/archive/index.php/t-844216.html
 
+    HARDCORES INFO ON SHARPNESS/MNDIE
+    http://forum.xda-developers.com/showthread.php?t=822756&page=1227
+    
+    BRIGHTNESS INFORMATION, SOURCECODE
+    http://forum.xda-developers.com/showthread.php?t=801712 (Epic)
+    
+    VARIOUS SGS DOCUMENTTION
+    http://forum.xda-developers.com/showthread.php?t=1111866
+
     TWEAKS
         http://intl.feedfury.com/content/47077504-tweak-skript-f-r-android-spica.html (various tweaks, explanations)
         http://forum.xda-developers.com/showthread.php?t=798560 (various tweaks, Milestone)

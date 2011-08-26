@@ -14,7 +14,9 @@
     Exitz kernel
         https://github.com/existz/linux_gt-i9000-gb
         http://existz.darkirc.info/git/
-    
+    Superoptimized
+        http://forum.xda-developers.com/showthread.php?t=811660
+        
     CONSERVATIVE SCHED
         http://pastebin.com/qE4NLuLk
         http://www.spinics.net/lists/cpufreq/maillist.html
@@ -22,6 +24,15 @@
     MEMCOPY / MEMMOVE
         https://github.com/Chad0989/android_kernel_common/commit/05a81121bf0c4f784d414d3d3964a2996afeebb3
 
+    /proc/sys/vm
+        http://www.cyrius.com/debian/nslu2/linux-on-flash.html
+        http://www.plugcomputer.org/plugwiki/index.php/Reduce_Flash_Writes      
+        http://www.westnet.com/~gsmith/content/linux-pdflush.htm
+        
+        
+    BUILD OPTIONS/CFLAGS
+        http://gcc.gnu.org/onlinedocs/gcc/Optimize-Options.html
+    
     OC
         https://github.com/existz/galaxys-i9000-OC-kernel-source-patches/blob/master/oc120v400-source.patch (Existz OC patch)
         http://forum.xda-developers.com/showthread.php?t=876244
@@ -39,7 +50,7 @@
     TOUCHSCREEN SENSITIVITY:
         http://forum.xda-developers.com/archive/index.php/t-844216.html
 
-    HARDCORES INFO ON SHARPNESS/MNDIE
+    HARDCORES 1st INFO ON SHARPNESS/MNDIE
     http://forum.xda-developers.com/showthread.php?t=822756&page=1227
     
     BRIGHTNESS INFORMATION, SOURCECODE
@@ -47,7 +58,7 @@
     
     VARIOUS SGS DOCUMENTTION
     http://forum.xda-developers.com/showthread.php?t=1111866
-
+    http://forum.xda-developers.com/showthread.php?t=859545 (Datasheets)
     TWEAKS
         http://intl.feedfury.com/content/47077504-tweak-skript-f-r-android-spica.html (various tweaks, explanations)
         http://forum.xda-developers.com/showthread.php?t=798560 (various tweaks, Milestone)
@@ -75,4 +86,14 @@
         http://forum.xda-developers.com/showthread.php?t=1152740 (SU and init.d)
         http://forum.xda-developers.com/showthread.php?t=682828 (Superuser)
         http://forum.xda-developers.com/showthread.php?t=786988 (ADB root props)
+    
+    CALL/BLACKSCREEN ISSUE
+        http://forum.xda-developers.com/showthread.php?t=1138619&highlight=call+black+screen+proximity
+        http://forum.xda-developers.com/showthread.php?t=1171311&highlight=call+black+screen+proximity
+        http://forum.xda-developers.com/showthread.php?t=1089453&highlight=call+black+screen+proximity
+        http://code.google.com/p/android/issues/detail?id=15291 (NEXUS S)
+        http://forum.xda-developers.com/showthread.php?t=1151024&highlight=call+black+screen+proximity (Hardware defect)
+        http://forums.miuiandroid.com/showthread.php?7774-1.6.17-%28SGS-i9000%29-call-blackscreen-%28no-way-to-get-it-back-up%29 (MIUI)
+        http://forum.cyanogenmod.com/topic/17187-black-screen-during-a-call/page__st__20 (CM7)
+        
 
